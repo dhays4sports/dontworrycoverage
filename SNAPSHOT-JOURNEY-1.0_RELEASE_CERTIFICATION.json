@@ -1,0 +1,12 @@
+{
+  "release": "CoverageFit v3.20.218 / SNAPSHOT-JOURNEY-1.0",
+  "status": "certified",
+  "entry_type": "snapshot",
+  "fresh_destination": "/pvx/discovery/",
+  "policy_questions": ["dwelling", "water", "deductible", "liability", "umbrella"],
+  "review_readiness_requires_policy_evidence": true,
+  "unconfirmed_upload_creates_score": false,
+  "d1_migration_required": false,
+  "regression_tests": { "passed": 83, "failed": 0 },
+  "preserved": ["d1_persistence", "lead_sync", "ringcentral_sms", "consent_evidence", "maintenance_worker", "secure_408farmers_handoff", "journey_state_cleanup"]
+}

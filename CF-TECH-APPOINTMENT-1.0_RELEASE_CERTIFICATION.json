@@ -1,0 +1,18 @@
+{
+  "release": "CoverageFit v3.20.221 / CF-TECH-APPOINTMENT-1.0 + CF-PRODUCER-BOOKING-ALERT-1.0",
+  "status": "certified",
+  "entry": "408farmers.com/tech",
+  "destination": "/pvx/appointment/",
+  "discovery_bypassed": true,
+  "snapshot_bypassed": true,
+  "single_completion_path": "confirmed_callback_appointment",
+  "same_lead_updated_after_booking": true,
+  "agent_workspace_appointment_context": true,
+  "ringcentral_producer_alert_after_calendar_confirmation": true,
+  "producer_alert_idempotent": true,
+  "producer_alert_failure_does_not_undo_booking": true,
+  "producer_alert_variable": "PRODUCER_ALERT_PHONE",
+  "ordinary_journey_access_rejected": true,
+  "d1_migration_required": false,
+  "regression_tests": {"passed": 90, "failed": 0}
+}

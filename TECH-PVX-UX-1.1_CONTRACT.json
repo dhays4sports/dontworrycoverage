@@ -1,0 +1,28 @@
+{
+  "release": "TECH-PVX-UX-1.1",
+  "coveragefit_version": "3.20.217",
+  "journey_state_rule": {
+    "different_journey_id": "clear_browser_only_prior_journey_state",
+    "same_journey_id": "preserve_resume_state",
+    "secure_server_state": "authoritative"
+  },
+  "cleared_browser_keys": [
+    "coveragefit_pvx_branch_answers_v1",
+    "coveragefit_pvx_snapshot_v1",
+    "coveragefit_pvx_topic_responses_v1",
+    "coveragefit_pvx_readiness_v1",
+    "coveragefit_pvx_preferred_continuation_v1",
+    "coveragefit_pvx_home_profile_v1",
+    "coveragefit_pvx_checkpoint_id_v1",
+    "coveragefit_pvx_contact_prompt_declined_v1",
+    "coveragefit_property_profile_v1",
+    "coveragefit_property_cache_v1",
+    "coveragefit_assessment_draft_v1"
+  ],
+  "protected_boundaries": {
+    "eligibility_determined": false,
+    "discount_determined": false,
+    "contact_permission_inferred": false,
+    "marketing_sms_permission_inferred": false
+  }
+}

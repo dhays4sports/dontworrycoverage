@@ -1,0 +1,22 @@
+{
+  "release": "TECH-PVX-UX-1.0",
+  "coveragefit_version": "3.20.216",
+  "status": "PASS",
+  "tests": {
+    "command": "node --test tests/*.test.mjs",
+    "passed": 91,
+    "failed": 0
+  },
+  "verified": {
+    "fresh_tech_first_look": true,
+    "resume_returns_to_saved_stage": true,
+    "completed_snapshot_progressive_actions": true,
+    "professional_context_is_evidence_backed": true,
+    "eligibility_not_determined": true,
+    "snapshot_checkpoint_compatible": true,
+    "browser_callback_booking_preserved": true,
+    "ringcentral_maintenance_regressions_pass": true,
+    "lead_operations_regressions_pass": true,
+    "d1_schema_changed": false
+  }
+}

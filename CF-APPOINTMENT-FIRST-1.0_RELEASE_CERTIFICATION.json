@@ -1,0 +1,22 @@
+{
+  "release": "CF-APPOINTMENT-FIRST-1.0",
+  "version": "3.20.223",
+  "status": "certified",
+  "d1_migration_required": false,
+  "preserved": [
+    "D1 persistence",
+    "Agent Workspace continuity",
+    "Formspree lead notification fallback",
+    "Google Calendar booking",
+    "RingCentral producer booking alerts",
+    "RingCentral call-now handoff",
+    "consent evidence",
+    "maintenance Worker"
+  ],
+  "verification": {
+    "regression_suite": "100 tests",
+    "web_entry_contracts": 9,
+    "sms_entry_contracts": 7,
+    "d1_sql_required": false
+  }
+}

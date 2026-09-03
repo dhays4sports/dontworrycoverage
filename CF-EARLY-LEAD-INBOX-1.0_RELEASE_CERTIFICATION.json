@@ -1,0 +1,12 @@
+{
+  "release": "CoverageFit v3.20.219 / CF-EARLY-LEAD-INBOX-1.0",
+  "status": "certified",
+  "unified_producer_build": "408-CF-PVX-WEB-2.4",
+  "inbox_surface": "New 408FARMERS leads",
+  "sync_event": "coveragefit:producer-inbox-synced",
+  "contact_actions": ["call", "text", "email_when_permitted"],
+  "d1_migration_required": false,
+  "existing_leads_visible_after_deploy": true,
+  "regression_tests": {"passed": 85, "failed": 0},
+  "preserved": ["d1_persistence", "consultation_inbox", "lead_sync", "consent_evidence", "ringcentral_sms", "snapshot_journey"]
+}

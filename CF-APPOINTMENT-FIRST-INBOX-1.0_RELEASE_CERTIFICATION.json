@@ -1,0 +1,28 @@
+{
+  "release": "CF-APPOINTMENT-FIRST-INBOX-1.0",
+  "version": "3.20.224",
+  "status": "certified",
+  "d1_migration_required": false,
+  "capabilities": [
+    "phone-only SMS lead visibility",
+    "same-record web and SMS appointment updates",
+    "product-neutral appointment-first inbox",
+    "campaign-specific compact lead briefs",
+    "appointment-priority sorting and filters",
+    "direct call and personal text actions"
+  ],
+  "preserved": [
+    "D1 persistence",
+    "Google Calendar booking",
+    "RingCentral producer alerts",
+    "Formspree fallback notifications",
+    "consent evidence",
+    "maintenance Worker"
+  ],
+  "verification": {
+    "regression_tests": 101,
+    "d1_sql_required": false,
+    "automated_marketing_consent_inferred": false,
+    "quote_level_pii_added": false
+  }
+}

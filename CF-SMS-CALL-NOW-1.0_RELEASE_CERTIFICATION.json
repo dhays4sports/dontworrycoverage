@@ -1,0 +1,17 @@
+{
+  "release": "CoverageFit v3.20.222 / CF-SMS-CALL-NOW-1.0",
+  "status": "certified",
+  "natural_call_now_detection": true,
+  "negative_phrase_guards": true,
+  "callback_automation_stopped": true,
+  "calendar_event_created": false,
+  "customer_acknowledgement_sent": true,
+  "producer_ringcentral_alert_sent": true,
+  "producer_alert_idempotent_by_inbound_message_id": true,
+  "callback_reply_context_cleared": true,
+  "human_takeover": true,
+  "producer_alert_variable": "PRODUCER_ALERT_PHONE",
+  "d1_migration_required": false,
+  "coveragefit_only_deploy": true,
+  "regression_tests": {"passed": 96, "failed": 0}
+}

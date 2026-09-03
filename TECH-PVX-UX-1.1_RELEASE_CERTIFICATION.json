@@ -1,0 +1,21 @@
+{
+  "release": "TECH-PVX-UX-1.1",
+  "coveragefit_version": "3.20.217",
+  "status": "PASS",
+  "tests": {
+    "command": "npm test",
+    "passed": 77,
+    "failed": 0
+  },
+  "verified": {
+    "different_journey_clears_stale_browser_state": true,
+    "same_journey_preserves_resume_state": true,
+    "technology_first_look_preserved": true,
+    "progressive_snapshot_preserved": true,
+    "snapshot_v2_checkpoint_compatibility_preserved": true,
+    "d1_persistence_preserved": true,
+    "lead_sync_and_consent_evidence_preserved": true,
+    "ringcentral_and_maintenance_preserved": true,
+    "secure_handoff_preserved": true
+  }
+}

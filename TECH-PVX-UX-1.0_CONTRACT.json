@@ -1,0 +1,39 @@
+{
+  "release": "TECH-PVX-UX-1.0",
+  "coveragefit_version": "3.20.216",
+  "fresh_handoff": {
+    "technology_first_look": true,
+    "role_reflected": true,
+    "housing_reflected": true,
+    "professional_discount_language": "worth_verifying",
+    "primary_destination": "/pvx/discovery/"
+  },
+  "resume_handoff": {
+    "replays_first_look": false,
+    "uses_saved_server_stage": true
+  },
+  "completed_snapshot": {
+    "maximum_evidence_backed_items": 3,
+    "primary_actions": ["continue_toward_quote", "review_with_dylan"],
+    "secondary_actions": ["save_for_later", "keep_exploring"],
+    "contact_form_initially_visible": false,
+    "callback_booking_preserved": true
+  },
+  "protected_boundaries": {
+    "professional_eligibility_determined": false,
+    "professional_discount_determined": false,
+    "current_policy_evaluated": false,
+    "coverage_recommendation_created": false,
+    "protection_score_created": false,
+    "contact_permission_inferred": false,
+    "automated_sms_permission_inferred": false,
+    "bind_authority": false
+  },
+  "architecture": {
+    "d1_schema_changed": false,
+    "lead_sync_removed": false,
+    "ringcentral_removed": false,
+    "maintenance_worker_removed": false,
+    "secure_post_handoff_removed": false
+  }
+}
